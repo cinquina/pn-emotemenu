@@ -9,7 +9,7 @@ The **backend/core logic credits go entirely to [Scully](https://github.com/Scul
 - Keeps the original backend logic and behavior from Scully’s resource
 
 ## 🧾 Credits
-- Backend / Core system: **Scully** (original `scully_emotemenu`)  
+- Backend / Core system: [**Scully**](https://github.com/Scullyy) (original `scully_emotemenu`)  
 - Frontend inspiration: **[M-DEVELOPMENT23](https://github.com/M-DEVELOPMENT23)**, **@m_development** on Discord (User ID: `871880795399262239`) found in a [Project Sloth Discord](https://discord.gg/projectsloth) [post](https://discord.com/channels/897744257237000222/1416449328754458675)  
 
 ## 📦 Installation
