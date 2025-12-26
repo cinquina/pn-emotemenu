@@ -1,3 +1,7 @@
+Ecco il tuo README con una sezione **Preview** aggiunta (con spazio per video e immagini).
+
+***
+
 # 🍍 pn-emotemenu
 `pn-emotemenu` is a fork of **[scully_emotemenu](https://github.com/Scullyy/scully_emotemenu/)**, enhanced with a modern **React UI**.
 
@@ -8,9 +12,12 @@ The **backend/core logic credits go entirely to [Scully](https://github.com/Scul
 - Improved usability with a cleaner, more modern menu experience
 - Keeps the original backend logic and behavior from Scully’s resource
 
+## 👀 Preview
+**Video:** [*Click here*](https://youtu.be/Nl1S1eyNtLo)
+
 ## 🧾 Credits
 - Backend / Core system: [**Scully**](https://github.com/Scullyy) (original `scully_emotemenu`)  
-- Frontend inspiration: **[M-DEVELOPMENT23](https://github.com/M-DEVELOPMENT23)**, **@m_development** on Discord (User ID: `871880795399262239`) found in a [Project Sloth Discord](https://discord.gg/projectsloth) [post](https://discord.com/channels/897744257237000222/1416449328754458675)  
+- Frontend inspiration: **[M-DEVELOPMENT23](https://github.com/M-DEVELOPMENT23)**, **@m_development** on Discord (User ID: `871880795399262239`) found in a [Project Sloth Discord](https://discord.gg/projectsloth) [post](https://discord.com/channels/897744257237000222/1416449328754458675)
 
 ## 📦 Installation
 - Download/clone the resource into your server `resources` folder
@@ -19,3 +26,5 @@ The **backend/core logic credits go entirely to [Scully](https://github.com/Scul
 
 ## 📬 Support / Notes
 If you run into issues, you can join our [Discord Server](https://discord.com/invite/UMkRWW8Jzy) for support.
+
+[1](https://github.com/Scullyy)
