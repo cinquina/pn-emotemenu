@@ -1,7 +1,3 @@
-Ecco il tuo README con una sezione **Preview** aggiunta (con spazio per video e immagini).
-
-***
-
 # 🍍 pn-emotemenu
 `pn-emotemenu` is a fork of **[scully_emotemenu](https://github.com/Scullyy/scully_emotemenu/)**, enhanced with a modern **React UI**.
 
@@ -26,5 +22,3 @@ The **backend/core logic credits go entirely to [Scully](https://github.com/Scul
 
 ## 📬 Support / Notes
 If you run into issues, you can join our [Discord Server](https://discord.com/invite/UMkRWW8Jzy) for support.
-
-[1](https://github.com/Scullyy)
