@@ -1,3 +1,4 @@
+local exports = require 'bridge.scully_emotemenu'.createExports
 local utils = {}
 
 ---Remove multiple entries from a table
