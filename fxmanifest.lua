@@ -15,7 +15,8 @@ dependencies {
 }
 
 shared_scripts {
-    '@ox_lib/init.lua'
+    '@ox_lib/init.lua',
+    'bridge/scully_emotemenu.lua',
 }
 
 client_scripts {
