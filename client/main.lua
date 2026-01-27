@@ -1,3 +1,5 @@
+local exports = require 'bridge.scully_emotemenu'.createExports
+
 lib.locale()
 
 KVP = require 'client.modules.kvp'

@@ -27,5 +27,7 @@ return {
     stanceKey = GetConvar('scully_emotemenu:stanceKey', 'LCONTROL'),
     useCrouchOnly = GetConvar('scully_emotemenu:useCrouchOnly', 'false') == 'true',
     pointKey = GetConvar('scully_emotemenu:pointKey', 'B'),
-    ragdollKey = GetConvar('scully_emotemenu:ragdollKey', 'U')
+    ragdollKey = GetConvar('scully_emotemenu:ragdollKey', 'U'),
+
+    provideScullyEmoteMenuExports = true
 }
