@@ -29,5 +29,5 @@ return {
     pointKey = GetConvar('scully_emotemenu:pointKey', 'B'),
     ragdollKey = GetConvar('scully_emotemenu:ragdollKey', 'U'),
 
-    provideScullyEmoteMenuExports = true
+    provideScullyEmoteMenuExports = false
 }
