@@ -75,3 +75,5 @@ data_file 'DLC_ITYP_REQUEST' 'bzzz_package_pizzahut.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'ultra_ringcase.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'bzzz_food_xmas22.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'pprp_icefishing.ytyp'
+
+-- provide 'scully_emotemenu' -- Uncomment this to mark this resource as a replacement for the original scully_emotemenu resource
